@@ -1,0 +1,8 @@
+Question,Precision@K,Recall@K,MRR,ROUGE-1,ROUGE-L,BERTScore
+What is the operating industry of adani enterprise?,1.0,1.0,1.0,0.33,0.33,0.86
+Who is the CEO of Adani Ports?,1.0,0.2,1.0,0.11,0.05,0.82
+What are the overall risk scores for Apollo Hospitals Enterprise?,1.0,0.4,1.0,0.04,0.04,0.78
+Which sector does Asian Paints belong to?,1.0,0.09,1.0,0.25,0.25,0.83
+What are the primary products or services offered by Asian Paints?,1.0,0.09,1.0,0.82,0.71,0.93
+"Which company has the lowest board risk score, and what is its industry?",0.5,0.05,0.5,0.56,0.56,0.87
+"Who is the executive with the highest total pay in Apollo Hospitals, and what is their role?",0.5,0.2,1.0,0.16,0.16,0.85
